@@ -1,6 +1,14 @@
 # Employee Insights Prediction App
 
 This Streamlit web application helps HR professionals analyze and predict employee-related outcomes using Machine Learning models. It consists of two predictive modules:
+### 🛠️ Tools & Libraries:
+  - Python 
+  - Pandas
+  - NumPy
+  - Scikit-learn
+  - XGBoost
+  - Streamlit
+  - Imbalanced-learn (SMOTE)
 
 ### 🔍 1. Employee Attrition Prediction
 - **Goal**: Predict whether an employee is likely to leave the company.
